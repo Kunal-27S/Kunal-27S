@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kunal-27S
-- 👀 I’m interested in solving interesting problems
-- 🌱 I’m currently learning AI and Software Development
-- 💞️ I’m looking to collaborate on unique projects
+- 👀 I’m interested in solving unique problems
+- 🌱 I’m currently mastering AI and Software Development
+- 💞️ I’m looking to collaborate on innovative projects
 - 📫 Find me 😉
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 🤣
