@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kunal-27S
 - 👀 I’m interested in solving unique problems
-- 🌱 I’m currently mastering Machine Learning and Deep Learning
+- 🌱 I’m currently mastering ML, DL and NLP
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 Find me 😉
 - 😄 Pronouns: He/Him
